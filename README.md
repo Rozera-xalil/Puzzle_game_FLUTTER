@@ -1,63 +1,199 @@
-🌟 PUZZLE NOVA: The Celestial Number Challenge 🌟
-Forget everything you know about number puzzles. Forget the mundane, the repetitive. PUZZLE NOVA is here to shatter the status quo and redefine the challenge!
+<div align="center">
 
-This isn't just a game... it's a sensory and mental odyssey that pulls you into a digital cosmos where colors glow, numbers dance, and victory feels like a supernova. 🌠
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:00ffff&height=200&section=header&text=PUZZLE%20NOVA&fontSize=70&fontColor=00ffff&fontAlignY=38&desc=The%20Celestial%20Number%20Challenge&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-🌌 Enter Another Dimension: The Experience
-We've escalated the concept of a "puzzle game" to an unimaginable level:
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🌌+A+Sensory+%26+Mental+Odyssey;🎨+Where+Numbers+Dance+%26+Colors+Glow;🧠+100%25+Solvable+%7C+100%25+Addictive;⚡+Built+with+Flutter+%26+Dart;🌠+Victory+Feels+Like+a+Supernova" alt="Typing SVG" />
+</a>
 
-Three Realms of Challenge: Choose your destiny in 3×3 (fast & intense), 4×4 (strategic battle), or 5×5 (a psychological war!). Each grid size is a universe of its own.
-Breathtaking Animations: Every move, every transition, every tap is a miniature fireworks display. Get ready to see numbers slide and fly with effects as smooth as silk.
-A Living, Breathing Background: The screen isn't static. It's a living galaxy that moves, breathes, and glows behind the puzzles, creating an atmosphere of mystery and deep focus.
-🎨 Visual Addiction: The Design
-We didn't just design a game; we crafted a digital masterpiece:
+<br/>
 
-Darkness is the New Light: A sleek, dark-mode interface makes the neon colors explode with greater intensity. Get ready to be mesmerized.
-Gradients from Another Planet: Every color was meticulously chosen to shock your senses and create an unforgettable contrast.
-Every Interaction is a Celebration: Numbers light up, turn green when they capture their correct spot, and pulse to let you know they're ready to move. This game speaks to you visually.
-🧠 A Mastermind in the Shadows: The Logic
-Don't let the beauty fool you; a genius is at work behind the scenes:
+<!-- Badges -->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00FFFF)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-00ffcc?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active%20🚀-brightgreen?style=for-the-badge)
 
-The Genius Shuffle Algorithm: We don't just shuffle numbers randomly. We use a complex algorithm that ensures every puzzle is 100% solvable, but it also guarantees you a real headache!
-Instant Victory Detection: The moment you place the last number, the cosmos explodes in celebration for you. No delay, no waiting.
-Intelligent Indicators: That little white dot? It's not just decoration. It's a signal from the game to you: "I can move!". It's a secret language between you and the tile.
-🔬 The Creation Equation: The Arcane Tech Stack
-How did we do it? Here's our little secret:
+</div>
 
-Flutter (The Divine Brush): We used Flutter not just as a framework, but as a brush to paint this galaxy. CustomPainter for drawing the grids of the universe, AnimatedBuilder to make everything breathe, and ShaderMask to give text a legendary glow.
-Dart (The Beating Heart): A powerful, clean language that manages all this madness with incredible efficiency, from the movement of a single tile to the screen explosion upon victory.
-The Algorithms (The Mastermind): The solvability and shuffle algorithms are the brains that ensure a balanced and frustratingly fun (in the best way!) gameplay experience.
-🗺️ The Odyssey Map: How to Play?
-Choose Your Destiny: On the home screen, watch the magical preview and dare to select the grid size you're brave enough to face.
-Unleash the Chaos: Press "PLAY NOW" and watch the world transform around you into a puzzle canvas.
-Dance with the Numbers: Tap any tile adjacent to the empty space. Watch it slide with fluid grace. Continue the dance until every number is returned to its home.
-Discover the Secret of Victory: When all tiles turn green, prepare for a visual and (future) auditory explosion that declares your conquest of the cosmos!
-📦 Installation & Setup
-Ready to begin your journey?
+---
 
-Prerequisites: Make sure you have the Flutter SDK installed on your machine.
-Clone the Repository:
-bash
+## 🌌 Enter Another Dimension
 
+> *"This isn't just a game... it's a sensory and mental odyssey that pulls you into a digital cosmos where colors glow, numbers dance, and victory feels like a supernova."*
+
+<div align="center">
+
+### 📸 Screenshots
+
+| Home Screen | Gameplay | Victory |
+|:-----------:|:--------:|:-------:|
+| ![Home](Screenshots/home.jpg) | ![Game](Screenshots/game.jpg) | ![Win](Screenshots/winnn.jpg) |
+
+| 3×3 Grid | 5×5 Grid | How to Play |
+|:--------:|:--------:|:-----------:|
+| ![3x3](Screenshots/33.jpg) | ![5x5](Screenshots/fivegrid.jpg) | ![HTP](Screenshots/how_to_play.jpg) |
+
+</div>
+
+---
+
+## ✨ Features
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🎮  THREE REALMS OF CHALLENGE                          ║
+║      3×3 Fast & Fierce  │  4×4 Strategic  │  5×5 WAR   ║
+╠══════════════════════════════════════════════════════════╣
+║  🌟  BREATHTAKING ANIMATIONS — Smooth as Silk           ║
+╠══════════════════════════════════════════════════════════╣
+║  🌀  LIVING GALAXY BACKGROUND — Breathes & Glows        ║
+╠══════════════════════════════════════════════════════════╣
+║  🧠  GENIUS SHUFFLE — 100% Solvable, Always             ║
+╠══════════════════════════════════════════════════════════╣
+║  ⚡  INSTANT VICTORY DETECTION — No Delay               ║
+╠══════════════════════════════════════════════════════════╣
+║  💡  SMART MOVE INDICATORS — Secret Language of Tiles   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🎨 Visual Design Philosophy
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🌑 Dark Mode First</h3>
+Sleek dark interface that makes neon colors <strong>explode</strong> with intensity
+</td>
+<td width="33%" align="center">
+<h3>🎨 Alien Gradients</h3>
+Every color meticulously chosen to <strong>shock your senses</strong> with unforgettable contrast
+</td>
+<td width="33%" align="center">
+<h3>💚 Living Tiles</h3>
+Numbers <strong>light up green</strong> when home, pulse when ready to move
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 The Logic Behind the Magic
+
+```dart
+// The Genius: Every puzzle is solvable — guaranteed.
+bool isSolvable(List<int> tiles) {
+  int inversions = _countInversions(tiles);
+  int gridSize = sqrt(tiles.length).toInt();
+  
+  if (gridSize.isOdd) return inversions.isEven;
+  
+  int emptyRow = _getEmptyRowFromBottom(tiles, gridSize);
+  return emptyRow.isEven ? inversions.isOdd : inversions.isEven;
+}
+```
+
+| Feature | Implementation |
+|---------|---------------|
+| 🖌️ Grid Rendering | `CustomPainter` |
+| 💨 Animations | `AnimatedBuilder` |
+| ✨ Glow Effects | `ShaderMask` |
+| 🧩 Solvability | Inversion Count Algorithm |
+| 🏆 Win Detection | Real-time State Check |
+
+---
+
+## 🗺️ How to Play
+
+```
+  1️⃣  Choose Your Destiny ──► Select 3×3, 4×4, or 5×5
+          │
+          ▼
+  2️⃣  Unleash the Chaos ───► Press PLAY NOW
+          │
+          ▼
+  3️⃣  Dance with Numbers ──► Tap tiles adjacent to empty space
+          │
+          ▼
+  4️⃣  All tiles turn GREEN = 🎆 YOU CONQUERED THE COSMOS!
+```
+
+---
+
+## 📦 Installation
+
+```bash
+# 1. Clone the repository
 git clone https://github.com/Rozera-xalil/Puzzle_game_FLUTTER.git
 cd buzzle
-Install Dependencies:
-bash
 
+# 2. Install dependencies
 flutter pub get
-Run the App:
-bash
 
+# 3. Launch into the cosmos 🚀
 flutter run
-🔮 The Roadmap to Infinity
-This is just the beginning. We dream of:
+```
 
-Battles Against Time: A "Hourglass" mode to crank up the adrenaline.
-Cosmic Leaderboard: A global leaderboard to see who the true puzzle master is.
-New Worlds & Dimensions: 6×6, 7×7 grids, and crazy puzzle shapes you've never seen before.
-Spatial Sound Effects: The sound of a tile sliding, the roar of victory.
-The universe is watching. The cosmos is waiting. Are you ready to prove you're the best?
+> **Prerequisite:** Flutter SDK installed on your machine.
 
+---
 
+## 🔮 Roadmap
 
+- [x] 🎮 3×3, 4×4, 5×5 Puzzle Grids
+- [x] 🌌 Animated Galaxy Background
+- [x] 💚 Smart Victory Detection
 
+---
+
+## 👩‍💻 About the Author
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d2b,100:1a1a4e&height=3&section=header" width="100%"/>
+
+```
+ ██████╗  ██████╗ ███████╗███████╗██████╗  █████╗
+ ██╔══██╗██╔═══██╗╚══███╔╝██╔════╝██╔══██╗██╔══██╗
+ ██████╔╝██║   ██║  ███╔╝ █████╗  ██████╔╝███████║
+ ██╔══██╗██║   ██║ ███╔╝  ██╔══╝  ██╔══██╗██╔══██║
+ ██║  ██║╚██████╔╝███████╗███████╗██║  ██║██║  ██║
+ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### **Rozêra Xelîl** ☀️
+#### `Fullstack Developer & AI Engineering Student`
+
+🏡 **From:** Rojava 🇸🇾&nbsp;&nbsp;|&nbsp;&nbsp;❤️🤍💛💚✌🏻
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rozera--xalil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rozera-xalil)
+[![GitHub](https://img.shields.io/badge/GitHub-rozxalil-181717?style=for-the-badge&logo=github&logoColor=cyan)](https://github.com/rozxalil)
+
+<br/>
+
+> *"2+2=1 ❤️"*
+> 
+> *Building the cosmos, one line of code at a time.*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rozera-xalil&color=00ffcc&style=for-the-badge&label=COSMIC+VISITORS)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:1a1a4e,100:0d0d2b&height=120&section=footer&text=The+Cosmos+is+Waiting...&fontSize=24&fontColor=00ffff&animation=fadeIn" width="100%"/>
+
+**⭐ Star this repo if the cosmos called to you! ⭐**
+
+</div>
