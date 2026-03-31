@@ -188,6 +188,6 @@ flutter run
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:1a1a4e,100:0d0d2b&height=120&section=footer&text=2+2=1✌🏻...&fontSize=24&fontColor=00ffff&animation=fadeIn" width="100%"/>
 
-**⭐ Star this repo if the cosmos called to you! ⭐**
+**⭐ Star this repo if it help u! ⭐**
 
 </div>
