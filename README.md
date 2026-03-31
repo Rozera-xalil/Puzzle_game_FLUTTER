@@ -167,20 +167,17 @@ flutter run
 ```
 
 ### **Rozêra Xelîl** ☀️
-#### `Fullstack Developer & AI Engineering Student`
+#### `Full_stack Developer & AI Engineering Student`
 
-🏡 **From:** Rojava 🇸🇾&nbsp;&nbsp;|&nbsp;&nbsp;❤️🤍💛💚✌🏻
+🏡 **From:** Rojava &nbsp;&nbsp;|&nbsp;&nbsp;❤️🤍💛💚✌🏻
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rozera--xalil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rozera-xalil)
-[![GitHub](https://img.shields.io/badge/GitHub-rozxalil-181717?style=for-the-badge&logo=github&logoColor=cyan)](https://github.com/rozxalil)
 
 <br/>
 
 > *"2+2=1 ❤️"*
 > 
-> *Building the cosmos, one line of code at a time.*
 
 <br/>
 
