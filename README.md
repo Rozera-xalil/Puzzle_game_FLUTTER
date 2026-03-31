@@ -13,9 +13,7 @@
 <!-- Badges -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00FFFF)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-00ffcc?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20🚀-brightgreen?style=for-the-badge)
+
 
 </div>
 
@@ -181,7 +179,6 @@ flutter run
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rozera-xalil&color=00ffcc&style=for-the-badge&label=COSMIC+VISITORS)
 
 </div>
 
@@ -189,7 +186,7 @@ flutter run
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:1a1a4e,100:0d0d2b&height=120&section=footer&text=The+Cosmos+is+Waiting...&fontSize=24&fontColor=00ffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:1a1a4e,100:0d0d2b&height=120&section=footer&text=2+2=1✌🏻...&fontSize=24&fontColor=00ffff&animation=fadeIn" width="100%"/>
 
 **⭐ Star this repo if the cosmos called to you! ⭐**
 
