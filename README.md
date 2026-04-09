@@ -26,16 +26,16 @@
 <div align="center">
 
 ### 📸 Screenshots
-
-| Home Screen | Gameplay | Victory |
-|:-----------:|:--------:|:-------:|
-| ![Home](Screenshots/home.jpg) | ![Game](Screenshots/game.jpg) | ![Win](Screenshots/winnn.jpg) |
-
-| 3×3 Grid | 5×5 Grid | How to Play |
-|:--------:|:--------:|:-----------:|
-| ![3x3](Screenshots/33.jpg) | ![5x5](Screenshots/fivegrid.jpg) | ![HTP](Screenshots/how_to_play.jpg) |
-
-</div>
+![winnn](https://github.com/user-attachments/assets/056b6490-6f7b-46b5-8b6f-456752f60a2b)
+![how_to_play3](https://github.com/user-attachments/assets/f4b2fe8c-23fb-422f-a69e-96d17420da8c)
+![how_to_play2](https://github.com/user-attachments/assets/29655aad-3bd1-40fc-9136-4739897ccccd)
+![how_to_play](https://github.com/user-attachments/assets/f39c018f-1217-4ae0-9bf2-e6b6dbb3e1fd)
+![game](https://github.com/user-attachments/assets/d0fa42c4-2e84-4f08-af5b-ae7e87f7c87c)
+![fivegridd](https://github.com/user-attachments/assets/b064cfe2-b444-4ae1-9813-5f8b7671b2ff)
+![fivegrid](https://github.com/user-attachments/assets/057af69f-a767-44d7-ba04-bb86a9ac9185)
+![333](https://github.com/user-attachments/assets/09c86c4a-cf64-4471-85b4-f2076ae66331)
+![33](https://github.com/user-attachments/assets/677729ff-4f85-49af-aed2-206e50172299)
+![home](https://github.com/user-attachments/assets/ef7bdd31-aaf7-4cea-8cb7-8214666fbcaa)
 
 ---
 
